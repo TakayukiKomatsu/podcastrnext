@@ -90,5 +90,8 @@
   "terminal.integrated.showExitAlert": false,
 
   "splitHTMLAttributes.closingBracketOnNewLine": true,
-  "window.zoomLevel": 1
+  "window.zoomLevel": 1,
+  "cSpell.words": [
+    "podcastr"
+  ]
 }
